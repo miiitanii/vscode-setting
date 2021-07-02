@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "files.exclude": {
+    "**/.git": false
+  },
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "explorer.confirmDragAndDrop": false,
+}
