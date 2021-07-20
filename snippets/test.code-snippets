@@ -1,13 +1,21 @@
 {
-	"@for $i": {
-		"scope": "scss",
-		"prefix": "for",
-		"body": [
-			"@for \\$i from 1 through  5 {",
-			"  .test-#{\\$i} {",
-			"  }",
-			"}",
-		],
-		"description": "@for with through"
-	}
+  "@for $i": {
+    "scope": "scss",
+    "prefix": "for",
+    "body": [
+      "@for \\$i from 1 through  5 {",
+      "  .test-#{\\$i} {",
+      "  }",
+      "}",
+    ],
+    "description": "@for with through"
+  },
+  "console.log": {
+    "scope": "javascript",
+    "prefix": "con",
+    "body": [
+      "console.log('$1')"
+    ],
+    "description": "console.log()"
+  }
 }
