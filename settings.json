@@ -8,4 +8,5 @@
     "lang": "ja"
   },
   "explorer.confirmDragAndDrop": false,
+  "intelephense.diagnostics.undefinedFunctions": false,
 }

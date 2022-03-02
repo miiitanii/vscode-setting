@@ -17,5 +17,21 @@
       "console.log('$1')"
     ],
     "description": "console.log()"
+  },
+  "php tag": {
+    "scope": "",
+    "prefix": "php",
+    "body": [
+      "<?php $1 ?>"
+    ],
+    "description": "php tag"
+  },
+  "test": {
+    "scope": "",
+    "prefix": "test",
+    "body": [
+      "testtesttest"
+    ],
+    "description": "test"
   }
 }
