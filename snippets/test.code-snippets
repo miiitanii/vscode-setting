@@ -26,6 +26,14 @@
     ],
     "description": "php tag"
   },
+  "html comment": {
+    "scope": "html",
+    "prefix": "comment",
+    "body": [
+      "<!-- $1 -->"
+    ],
+    "description": "php tag"
+  },
   "test": {
     "scope": "",
     "prefix": "test",
