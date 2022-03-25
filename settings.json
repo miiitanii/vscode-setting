@@ -9,4 +9,8 @@
   },
   "explorer.confirmDragAndDrop": false,
   "intelephense.diagnostics.undefinedFunctions": false,
+  "window.zoomLevel": -1,
+  "files.associations": {
+    "*.es": "javascript"
+  },
 }

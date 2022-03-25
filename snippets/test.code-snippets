@@ -19,7 +19,7 @@
     "description": "console.log()"
   },
   "php tag": {
-    "scope": "",
+    "scope": "php",
     "prefix": "php",
     "body": [
       "<?php $1 ?>"
@@ -35,7 +35,7 @@
   //   "description": "php tag"
   // },
   "test": {
-    "scope": "",
+    "scope": "test",
     "prefix": "test",
     "body": [
       "testtesttest"
